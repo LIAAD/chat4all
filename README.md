@@ -1,4 +1,4 @@
-# Easy4All - Multi-Agent System for JSON Schema Enforcement
+# Easy4all: Multi-Agent System for JSON Schema Enforcement
 
 ![Architecture Diagram](mas_highlevel.png)
 
