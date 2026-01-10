@@ -6,7 +6,7 @@
 
 This Multi-Agent System (MAS) generates schema-compliant JSON specifications from natural language for a no-code Human Resource (HR) application. The system addresses two key challenges: strict schema enforcement and cognitive load from long JSON contexts.
 
-Our approach employs a 20B-parameter Small Language Model (GPT-OSS), post-trained to reason over tool calls, with hierarchical orchestration that decomposes tasks across specialized agents. Unlike approaches using expensive proprietary LLMs or constrained decoding that degrades reasoning, our system uses task decomposition to enable cost-effective schema enforcement.
+Our approach employs a 20B-parameter Mid-Size Language Model (GPT-OSS), post-trained to reason over tool calls, with hierarchical orchestration that decomposes tasks across specialized agents. Unlike approaches using expensive proprietary LLMs or constrained decoding that degrades reasoning, our system uses task decomposition to enable cost-effective schema enforcement.
 
 The system produces two types of objects:
 - **Action objects**: Application procedures (e.g., update database entries)
@@ -23,7 +23,7 @@ Contact the authors for a live demonstration using the examples in this reposito
 
 ## Demo Video
 
-[Demo Video](http://youtube.com/watch?v=ZoDBiHAG_Mc)
+[Demo Video](https://youtu.be/FpYuNKH6BjI)
 
 ## Citation
 
