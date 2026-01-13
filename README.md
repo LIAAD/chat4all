@@ -23,7 +23,7 @@ Contact the authors for a live demonstration using the examples in this reposito
 
 ## Demo Video
 
-[Demo Video](https://youtu.be/FpYuNKH6BjI)
+[Demo Video](https://youtu.be/P8URp9PrNSY)
 
 ## Citation
 
