@@ -1,0 +1,1 @@
+I intend to create a process for creating events in a user's calendar. For this, I want to create an "Events" table with the columns "ID" of type integer, "Description" with the label Description, "EventDate" of type Datetime with the description Event Date, and User with the label User. The constraint of this table should be the ID column.

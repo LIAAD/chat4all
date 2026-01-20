@@ -1,0 +1,1 @@
+I intend to create a list page that shows me all the emails that were created today. The columns that should appear are: Subject, Sender, Recipient, Status, and Date sent.

@@ -1,0 +1,3 @@
+I intend to create a list page for the Invoices table with the title "Invoice List". This will be the main page. The page's datakeyname should be the ID column. On this page, I want to add a grid containing the fields User, LicensePlate, Cost, and Date.
+
+I want to filter this list page by the LicensePlate, User, and Date fields. My grid should be paginated with 20 rows per page and should be sorted by the Date column from most recent to oldest."

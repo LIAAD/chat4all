@@ -1,0 +1,2 @@
+
+I intend to create tickets for my users. To do this, I want to create a "Tickets" table with the following columns: ID, Title, Project, Status (with the default value being 0), User, and LimitDate (of type Date). The options for the status column should be Registered, Ongoing, Waiting for customer, Solved, Ready for production, and Closed in Portuguese and Registered, Ongoing, Waiting for customer, Solved, Ready for production, and Closed in English. The primary key of this table should be the ID column.

@@ -1,0 +1,3 @@
+I want to create a process that should have a list page. This page should list the data from the employee table. The list should have columns for employee code, name, and whether the employee is active or not.
+
+I want to add a filter for employee code and for assets, and sort the grid in descending order of creation date in the database.
